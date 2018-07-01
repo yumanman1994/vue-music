@@ -1,0 +1,3 @@
+babel-rentime es语法做一些转义
+fastclick 移动端点击三百毫秒的延迟的问题
+babel-polyfill 对es6的一些api转义
